@@ -1,0 +1,15 @@
+{
+    "tasks": [
+        {
+            "node": "server1",
+            "task_name": "my_task_2hz",
+            "data_path": "data/RealWorld/My_Dataset_2hz"
+        },
+        {
+            "node": "server2",
+            "task_name": "another_task_2hz",
+            "data_path": "data/RealWorld/Another_Dataset_2hz",
+            "robot_type": "my_robot_type"
+        }
+    ]
+}
